@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\PROYECTOSVS\\22042025SAULMONGE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66400D1F-1399-4033-BC3D-6E32A20EEB90}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66400D1F-1399-4033-BC3D-6E32A20EEB90}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66400D1F-1399-4033-BC3D-6E32A20EEB90}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66400D1F-1399-4033-BC3D-6E32A20EEB90}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8BA436-8E55-4F88-B799-0D90ADB20AE1}|Tienda.Domain\\Tienda.Domain.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8BA436-8E55-4F88-B799-0D90ADB20AE1}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190C7809-D7B5-4594-A3D2-1C717A981E58}|Tienda.Api\\Tienda.Api.csproj|solutionrelative:tienda.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03B83696-52B4-4D4A-A0C9-4EB0D5533C32}|Tienda.Application\\Tienda.Application.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,12 @@
       "RelativeMoniker": "D:0:0:{FF8BA436-8E55-4F88-B799-0D90ADB20AE1}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\repositories\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B83696-52B4-4D4A-A0C9-4EB0D5533C32}|Tienda.Application\\Tienda.Application.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B83696-52B4-4D4A-A0C9-4EB0D5533C32}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF8BA436-8E55-4F88-B799-0D90ADB20AE1}|Tienda.Domain\\Tienda.Domain.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8BA436-8E55-4F88-B799-0D90ADB20AE1}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B83696-52B4-4D4A-A0C9-4EB0D5533C32}|Tienda.Application\\Tienda.Application.csproj|c:\\proyectosvs\\22042025saulmonge\\tienda.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B83696-52B4-4D4A-A0C9-4EB0D5533C32}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Tienda.Api\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Tienda.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:52:00.709Z",
               "EditorCaption": ""
@@ -61,72 +61,72 @@
               "RelativeDocumentMoniker": "Tienda.Api\\Program.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Api\\Program.cs",
               "RelativeToolTip": "Tienda.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:46:34.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Tienda.Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Tienda.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:44:55.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\DTOs\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\UpdateProductDto.cs",
-              "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\DTOs\\UpdateProductDto.cs",
-              "RelativeToolTip": "Tienda.Application\\DTOs\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:36:29.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IProductoRepositorio.cs",
               "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Domain\\Repositories\\IProductoRepositorio.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Repositories\\IProductoRepositorio.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Domain\\Repositories\\IProductoRepositorio.cs",
               "RelativeToolTip": "Tienda.Domain\\Repositories\\IProductoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:28:26.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Tienda.Application\\Services\\ProductService.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\Services\\ProductService.cs",
               "RelativeToolTip": "Tienda.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:35:03.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Tienda.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:42:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Domain\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Producto.cs",
               "ToolTip": "C:\\PROYECTOSVS\\22042025SAULMONGE\\Tienda.Domain\\Entities\\Producto.cs",
               "RelativeToolTip": "Tienda.Domain\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T18:25:09.617Z",
               "EditorCaption": ""

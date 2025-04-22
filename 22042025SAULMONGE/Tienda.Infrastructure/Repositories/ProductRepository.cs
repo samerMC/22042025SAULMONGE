@@ -16,7 +16,10 @@ namespace Tienda.Infrastructure.Repositories
         public ProductRepository(AppDbContext ctx) => _ctx = ctx;
 
         public async Task AddAsync(Producto product, CancellationToken ct = default)
-            => await _ctx.Products.AddAsync(product, ct);
+        {
+            await _ctx.Products.AddAsync(product, ct);
+            await _ctx.SaveChangesAsync(ct);
+        }       
 
         public async Task DeleteAsync(Producto product, CancellationToken ct = default)
         {

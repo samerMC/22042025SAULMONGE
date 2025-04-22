@@ -17,3 +17,4 @@ C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Infrastructure\obj\Debug\net9.0\refint\T
 C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Infrastructure\obj\Debug\net9.0\Tienda.Infrastructure.pdb
 C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Infrastructure\obj\Debug\net9.0\Tienda.Infrastructure.genruntimeconfig.cache
 C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Infrastructure\obj\Debug\net9.0\ref\Tienda.Infrastructure.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Infrastructure\obj\Debug\net9.0\Tienda.Infrastructure.sourcelink.json

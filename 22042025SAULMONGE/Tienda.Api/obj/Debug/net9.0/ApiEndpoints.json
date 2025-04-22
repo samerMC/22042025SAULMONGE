@@ -1,8 +1,34 @@
 [
   {
     "ContainingType": "Tienda.Api.Controllers.ProductsController",
+    "Method": "GetAll",
+    "RelativePath": "api/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tienda.Api.Controllers.ProductsController",
+    "Method": "Create",
+    "RelativePath": "api/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tienda.Application.DTOs.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tienda.Api.Controllers.ProductsController",
     "Method": "GetById",
-    "RelativePath": "{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -18,7 +44,7 @@
   {
     "ContainingType": "Tienda.Api.Controllers.ProductsController",
     "Method": "Update",
-    "RelativePath": "{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -26,27 +52,12 @@
       {
         "Name": "id",
         "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "Id",
-        "Type": "System.Guid",
         "IsRequired": true
       },
       {
-        "Name": "Name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Description",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ImageUrl",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "dto",
+        "Type": "Tienda.Application.DTOs.UpdateProductDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -54,7 +65,7 @@
   {
     "ContainingType": "Tienda.Api.Controllers.ProductsController",
     "Method": "Delete",
-    "RelativePath": "{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -70,7 +81,7 @@
   {
     "ContainingType": "Tienda.Api.Controllers.ProductsController",
     "Method": "ConfigurePrice",
-    "RelativePath": "{id}/price",
+    "RelativePath": "api/products/{id}/price",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
@@ -78,17 +89,12 @@
       {
         "Name": "id",
         "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "Id",
-        "Type": "System.Guid",
         "IsRequired": true
       },
       {
-        "Name": "NewPrice",
-        "Type": "System.Decimal",
-        "IsRequired": false
+        "Name": "dto",
+        "Type": "Tienda.Application.DTOs.UpdatePriceDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

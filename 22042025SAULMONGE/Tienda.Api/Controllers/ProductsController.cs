@@ -4,14 +4,16 @@ using Tienda.Application.Services;
 
 namespace Tienda.Api.Controllers
 {
+    [ApiController]
+    [Route("api/products")]
     public class ProductsController : ControllerBase
     {
         private readonly ProductService _svc;
         public ProductsController(ProductService svc) => _svc = svc;
 
-        //[HttpGet]
-        //public async Task<IActionResult> GetAll()
-        //    => Ok(await _svc.GetAllAsync());
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+            => Ok(await _svc.GetAllAsync());
 
         [HttpGet("{id:guid}")]
         public async Task<IActionResult> GetById(Guid id)
