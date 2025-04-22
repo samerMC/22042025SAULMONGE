@@ -1,0 +1,15 @@
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\bin\Debug\net9.0\Tienda.Application.deps.json
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\bin\Debug\net9.0\Tienda.Application.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\bin\Debug\net9.0\Tienda.Application.pdb
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\bin\Debug\net9.0\Tienda.Domain.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\bin\Debug\net9.0\Tienda.Domain.pdb
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.csproj.AssemblyReference.cache
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.AssemblyInfoInputs.cache
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.AssemblyInfo.cs
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.csproj.CoreCompileInputs.cache
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.A.8EBB5F9B.Up2Date
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\refint\Tienda.Application.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\Tienda.Application.pdb
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Application\obj\Debug\net9.0\ref\Tienda.Application.dll

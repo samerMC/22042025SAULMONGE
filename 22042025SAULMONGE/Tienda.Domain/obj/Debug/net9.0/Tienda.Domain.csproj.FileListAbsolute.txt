@@ -1,0 +1,11 @@
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.deps.json
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.pdb
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.AssemblyInfo.cs
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\refint\Tienda.Domain.dll
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.pdb
+C:\PROYECTOSVS\22042025SAULMONGE\Tienda.Domain\obj\Debug\net9.0\ref\Tienda.Domain.dll
